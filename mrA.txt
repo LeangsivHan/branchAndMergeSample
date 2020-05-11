@@ -1,1 +1,2 @@
 This text was edited by FeatureA!
+This text was edited by FeatureB!
